@@ -1,6 +1,6 @@
 #!/bin/bash
 git clone -b Linux https://github.com/nicehash/nheqminer.git
-cd /Cpu-Miner-script
+cd Cpu-Miner-script
 cd /nheqminer/cpu_xenoncat/Linux/asm/
 sh assemble.sh
 cd ../../../Linux_cmake/nheqminer_cpu
